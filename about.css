@@ -1,4 +1,8 @@
 body {
+   background-color: rgb(255, 255, 255);
+   /*background-image: url("backgroundLogo.png");
+   background-size: cover;
+   background-position: 0px;*/
     margin: auto 0;
 }
 #header {
@@ -8,6 +12,7 @@ body {
     background-size: 100%;
     padding-bottom: 60%;
     margin-top: 0px;
+    position: fixed;
 }
 
 /*img #header #logo {
@@ -16,13 +21,6 @@ body {
     margin-right: 500px;
     padding-top: 10%;
 }*/
-
-body {
-   background-color: rgb(255, 255, 255);
-   /*background-image: url("backgroundLogo.png");
-   background-size: cover;
-   background-position: 0px;*/
-}
 
 h2, p {
     text-align: center;
